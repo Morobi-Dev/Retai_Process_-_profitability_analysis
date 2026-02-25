@@ -1,4 +1,3 @@
-# Retai_Performance_profitability_analysis
 
 Retail Performance & Profitability Analysis
 
