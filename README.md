@@ -1,4 +1,3 @@
-
 📌 Project Overview
 
 This project analyzes retail sales, cost, and marketing data to evaluate overall business profitability. The goal is to identify profit drivers, assess regional performance, evaluate customer value, and measure marketing efficiency.
